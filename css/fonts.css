@@ -1,0 +1,24 @@
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Regular;
+    src: url("https://raw.githubusercontent.com/SoLeaves/WebSpace/main/HarmonyOS_Sans/HarmonyOS_Sans_SC_Regular.ttf");
+}
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Medium;
+    src: url("https://raw.githubusercontent.com/SoLeaves/WebSpace/main/HarmonyOS_Sans/HarmonyOS_Sans_SC_Medium.ttf");
+}
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Light;
+    src: url("https://raw.githubusercontent.com/SoLeaves/WebSpace/main/HarmonyOS_Sans/HarmonyOS_Sans_SC_Light.ttf");
+}
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Black;
+    src: url("https://raw.githubusercontent.com/SoLeaves/WebSpace/main/HarmonyOS_Sans/HarmonyOS_Sans_SC_Black.ttf");
+}
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Bold;
+    src: url("https://raw.githubusercontent.com/SoLeaves/WebSpace/main/HarmonyOS_Sans/HarmonyOS_Sans_SC_Bold.ttf");
+}
+@font-face {
+    font-family: HarmonyOS_Sans_SC_Thin;
+    src: url("https://raw.githubusercontent.com/SoLeaves/WebSpace/main/HarmonyOS_Sans/HarmonyOS_Sans_SC_Thin.ttf");
+}
